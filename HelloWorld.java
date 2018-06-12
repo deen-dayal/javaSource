@@ -21,6 +21,7 @@ class HelloWorld {
         System.out.println("Test2 results!"); // Display the string.
         System.out.println("-----------------------------------------------"); // Display the string.
 
-        window.location.href = "http://stackoverflow.com";
+        String url_open ="http://www.paconsulting.com";
+        java.awt.Desktop.getDesktop().browse(java.net.URI.create(url_open));
     }
 }
