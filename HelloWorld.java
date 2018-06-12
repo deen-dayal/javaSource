@@ -28,7 +28,8 @@ class HelloWorld {
         System.out.println("Test2 results!"); // Display the string.
         System.out.println("-----------------------------------------------"); // Display the string.
 
-        String url_open ="http://www.paconsulting.com";
-        java.awt.Desktop.getDesktop().browse(java.net.URI.create(url_open));
+        File htmlFile = new File("C:\Dayal\hsbc\sample.html");
+        Desktop.getDesktop().browse(htmlFile.toURI());
+
     }
 }
