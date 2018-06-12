@@ -2,6 +2,13 @@
  * The HelloWorldApp class implements an application that
  * simply prints "Hello World!" to standard output.
  */
+package com.instanceofjava.openwebpage;
+
+import java.awt.Desktop;
+import java.io.File;
+import java.io.IOException;
+import java.net.URI;
+
 class HelloWorld {
     public static void main(String[] args) {
         System.out.println("Hello Team Nimble!"); // Display the string.
