@@ -11,7 +11,7 @@ import java.net.URI;
 
 class HelloWorld {
     public static void main(String[] args) {
-        System.out.println("Hello Team Nimble! This is demo project"); // Display the string.
+        System.out.println("Hello Team Nimble! This is demo project...."); // Display the string.
 
         Test1();
         Test2();
