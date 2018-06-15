@@ -28,11 +28,6 @@ class HelloWorld {
         System.out.println("Test2 results!"); // Display the string.
         System.out.println("-----------------------------------------------"); // Display the string.
     
-    try {
-        Desktop.getDesktop().browse(new URL("http://www.paconsulting.com").toURI());
-        } 
-    catch (Exception e) {
-
     }
 
     }
