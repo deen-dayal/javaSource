@@ -27,8 +27,5 @@ class HelloWorld {
         System.out.println("-----------------------------------------------"); // Display the string.
         System.out.println("Test2 results!"); // Display the string.
         System.out.println("-----------------------------------------------"); // Display the string.
-    
-    }
-
     }
 }
