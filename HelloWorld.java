@@ -19,7 +19,7 @@ class HelloWorld {
 
     public static void Test1() {
         System.out.println("-----------------------------------------------"); // Display the string.
-        System.out.println("Test1 results!"); // Display the string.
+        System.out.println("Test1 results!!!!!!"); // Display the string.
         System.out.println("-----------------------------------------------"); // Display the string.
     }
 
